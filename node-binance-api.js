@@ -1920,5 +1920,5 @@ module.exports = function() {
             }
         }
     };
-}();
+};
 //https://github.com/binance-exchange/binance-official-api-docs
